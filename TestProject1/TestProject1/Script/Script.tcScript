@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="MainMethod" key="{A8E1A1DD-E56C-45C1-A2EA-30C16C627143}" path="MainMethod.js" />
+		<child name="TaskScenario" key="{8238B410-77A7-41F5-9C6A-01183F6AEB66}" path="TaskScenario.js" />
+	</children>
+</Root>

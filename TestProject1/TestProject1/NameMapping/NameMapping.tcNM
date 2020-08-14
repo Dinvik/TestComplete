@@ -1,0 +1,2972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{1130495D-2531-462E-9D20-52446468C1C0}">
+				<TypeInfo Item0="{DFC2222E-FF81-4F25-93DF-3DE787AD9B5C}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Microsoft_Todos" Key="{EABFF752-8DBC-488A-A449-ED5DB5FC5169}">
+						<TypeInfo Item0="{1A10F7F7-4329-4FF0-9A36-7824ADB71BDB}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Microsoft.Todos" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Microsoft_To_Do" Key="{2A237C0A-BE49-481B-992F-819769DC0E93}">
+								<Image FileName="1208687076" Left="8" Top="8" Right="1374" Bottom="776" />
+								<TypeInfo Item0="{0F43B544-396E-4745-99E8-8C200B349EC9}" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="XAML" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Windows.UI.Core.CoreWindow" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Microsoft_To_Do" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DetailAndTaskSplitView" Key="{83FE80D6-02FF-4E4A-A472-779321558C28}">
+										<Image FileName="1208687076" Left="288" Top="8" Right="1374" Bottom="776" />
+										<TypeInfo Item0="{6015800A-DBF5-4027-8B7B-D319F194F914}" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="XAML" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="0" Type="0" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="custom" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DetailAndTaskSplitView" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="PaneRoot" Key="{D6C1AA54-D0AA-4109-8972-38F6826EBD0A}">
+												<Image FileName="1208687076" Left="1014" Top="8" Right="1374" Bottom="776" />
+												<TypeInfo Item0="{6015800A-DBF5-4027-8B7B-D319F194F914}" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="SplitViewPane" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="window" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="PaneRoot" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Details_for_task_dinesh" Key="{4412B47C-1B86-4CF9-A49C-A3258289BF86}">
+														<Image FileName="1208687076" Left="1014" Top="8" Right="1374" Bottom="776" />
+														<TypeInfo Item0="{6015800A-DBF5-4027-8B7B-D319F194F914}" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="NamedContainerAutomationPeer" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="group" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Details_for_task_dinesh" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ScrollViewer" Key="{84A061AF-DB64-41B8-8172-5E62A511B0BB}">
+																<Image FileName="1208687076" Left="1014" Top="36" Right="1374" Bottom="722" />
+																<TypeInfo Item0="{6015800A-DBF5-4027-8B7B-D319F194F914}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="ScrollViewer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ScrollViewer" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Dinesh_B" Key="{0714144F-4134-495E-BD93-B20115D596AE}">
+																		<Image FileName="1208687076" Left="1022" Top="375" Right="1322" Bottom="423" />
+																		<TypeInfo Item0="{6015800A-DBF5-4027-8B7B-D319F194F914}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Dinesh_B" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="Add_note" Key="{1A68ABF0-075B-4FEE-B0C3-CA5AF0750258}">
+																		<Image FileName="-570957016" Left="1030" Top="561" Right="1342" Bottom="580" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="TextBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="edit" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Add_note" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ContentElement" Key="{44AA2469-FA23-42AC-AF6B-6DA67880540C}">
+																				<Image FileName="-570957016" Left="1030" Top="561" Right="1342" Bottom="580" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="ScrollViewer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="pane" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ContentElement" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Assign_to" Key="{773F1653-E7DE-4CDD-BDBA-5B8E0368CC17}">
+																		<Image FileName="-687396751" Left="1014" Top="367" Right="1358" Bottom="415" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Assign_to" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="Add_file" Key="{7A8931BA-E4E7-4FEC-A14D-D65BD27966D0}">
+																		<Image FileName="1056677591" Left="1014" Top="424" Right="1358" Bottom="472" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Add_file" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="Dismiss_detail_view" Key="{969C70C9-F471-4574-9D86-AA1B439FF00A}">
+																<Image FileName="1120600258" Left="1006" Top="714" Right="1050" Bottom="768" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="Button" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="button" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Dismiss_detail_view" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Details_for_task_performance_test" Key="{183A57F4-7CC8-4CB1-BD2F-10C0902F1367}">
+														<Image FileName="-1763912102" Left="1006" Top="0" Right="1366" Bottom="768" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="NamedContainerAutomationPeer" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="group" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Details_for_task_performance_test" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ScrollViewer" Key="{28FD8A89-CCD3-4CF8-A445-5B8D9AE4270B}">
+																<Image FileName="-1763912102" Left="1006" Top="28" Right="1366" Bottom="714" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="ScrollViewer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ScrollViewer" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Assign_to" Key="{EA79C5F8-43FE-464C-8AB7-4726FC2F9F8C}">
+																		<Image FileName="880212642" Left="1014" Top="367" Right="1358" Bottom="415" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Assign_to" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Dinesh_B" Key="{7506E240-75ED-4282-8DCB-7749B1605CC5}">
+																				<Image FileName="832394655" Left="1066" Top="381" Right="1123" Bottom="401" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="TextBlock" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="text" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Dinesh_B" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Add_note" Key="{E186619B-820E-49E5-BAB7-550C72D0DB10}">
+																		<Image FileName="-328580154" Left="1030" Top="561" Right="1342" Bottom="580" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="TextBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="edit" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Add_note" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ContentElement" Key="{0DF9DE07-B113-46BD-9377-58A9816C8642}">
+																				<Image FileName="-328580154" Left="1030" Top="561" Right="1342" Bottom="580" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="ScrollViewer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="pane" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ContentElement" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Add_file" Key="{6098B236-2D1D-4B0D-AF85-CB4E13583CF1}">
+																		<Image FileName="1905240413" Left="1014" Top="424" Right="1358" Bottom="472" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Add_file" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="Dismiss_detail_view" Key="{A6F13B7E-8B0D-4281-8D11-7D1B2869231E}">
+																<Image FileName="-1711120493" Left="1006" Top="714" Right="1050" Bottom="768" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="Button" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="button" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Dismiss_detail_view" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Details_for_task_performance" Key="{35ACA504-243C-43C8-9260-6398856E0752}">
+														<Image FileName="-1004130538" Left="1006" Top="0" Right="1366" Bottom="768" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="NamedContainerAutomationPeer" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="group" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Details_for_task_performance" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ScrollViewer" Key="{37E20FDA-C2CC-4B08-A2DF-6CBBD9DF5BDA}">
+																<Image FileName="-1004130538" Left="1006" Top="28" Right="1366" Bottom="714" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="ScrollViewer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ScrollViewer" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Assign_to" Key="{97091EA4-0193-45BA-9C5C-FE365FD71B86}">
+																		<Image FileName="-1004130538" Left="1014" Top="367" Right="1358" Bottom="415" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Assign_to" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Details_for_task_Tester" Key="{129954E2-01E0-4B96-964B-9C1F0A7E8B00}">
+														<Image FileName="-1451216936" Left="1006" Top="0" Right="1366" Bottom="768" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="NamedContainerAutomationPeer" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="group" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Details_for_task_Tester" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ScrollViewer" Key="{29029C38-A507-43BB-9CBE-7B0CF2EBFF84}">
+																<Image FileName="-1451216936" Left="1006" Top="28" Right="1366" Bottom="714" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="ScrollViewer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="ScrollViewer" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Assign_to" Key="{4B0A486C-34B1-443F-98E3-47EBD59670AD}">
+																		<Image FileName="95216281" Left="1014" Top="367" Right="1358" Bottom="415" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Assign_to" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Assign_to" Key="{99BA86D5-334C-489E-A97F-1578ADF427B2}">
+																				<Image FileName="2097496307" Left="1066" Top="381" Right="1126" Bottom="401" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="TextBlock" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="text" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Assign_to" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Dinesh_B" Key="{AE3F2E9B-948E-4E78-B6E8-3A83CFFC7626}">
+																		<Image FileName="549699841" Left="1022" Top="375" Right="1322" Bottom="423" />
+																		<TypeInfo Item0="{6015800A-DBF5-4027-8B7B-D319F194F914}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Dinesh_B" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Dinesh_B" Key="{61FBC08D-3C12-4200-85FA-F7DBB5194119}">
+																				<Image FileName="549699841" Left="1074" Top="389" Right="1131" Bottom="409" />
+																				<TypeInfo Item0="{6015800A-DBF5-4027-8B7B-D319F194F914}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="TextBlock" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="text" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Dinesh_B" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Add_note" Key="{804510B5-C42D-47C2-9481-9A1576B6EF85}">
+																		<Image FileName="-1310404687" Left="1030" Top="561" Right="1342" Bottom="580" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="TextBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="edit" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Add_note" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ContentElement" Key="{8B3A6FA9-911D-45B5-AC90-972FBA86C99A}">
+																				<Image FileName="-1310404687" Left="1030" Top="561" Right="1342" Bottom="580" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="ScrollViewer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="pane" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="ContentElement" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Add_file" Key="{5EE87464-D253-49F7-84C3-5304036908D7}">
+																		<Image FileName="-1539051678" Left="1014" Top="424" Right="1358" Bottom="472" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Add_file" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="Add_a_reminder" Key="{B32E67C4-52ED-4347-A727-E3543D87338F}">
+																		<Image FileName="-837808510" Left="1014" Top="212" Right="1358" Bottom="260" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Add_a_reminder" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="Add_due_date" Key="{85460B99-F59F-436B-863C-D3194C086332}">
+																		<Image FileName="-1574990141" Left="1014" Top="262" Right="1358" Bottom="310" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Add_due_date" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="Dismiss_detail_view" Key="{6E24035E-3578-4BE8-BC7E-CF0340E4D0C0}">
+																<Image FileName="468513725" Left="1006" Top="714" Right="1050" Bottom="768" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="Button" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="button" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Dismiss_detail_view" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="K" Key="{799A975D-552D-424E-ACD6-80F96E9CE6E1}">
+												<Image FileName="-1674833679" Left="335" Top="698" Right="359" Bottom="725" />
+												<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="TextBlock" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="text" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="K" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Add_a_task_in_testere_" Key="{48428206-1258-40E6-8F9A-E60A8E76E0B2}">
+												<Image FileName="-1401832223" Left="320" Top="684" Right="1326" Bottom="736" />
+												<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="TextBox" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="edit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Add_a_task_in_testere_" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Tasks" Key="{D21A7729-0718-4557-B06D-8026CFCA9A36}">
+												<Image FileName="764990662" Left="280" Top="0" Right="1366" Bottom="768" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="ListView" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="list" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Tasks" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Task_dinesh_Due_Today_You_have_a_reminder_set_for_Today_at_19_00_more_options_available" Key="{A1E423B9-6DC2-4553-8475-47852ED5C253}">
+														<Image FileName="-400282533" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_dinesh_Due_Today_You_have_a_reminder_set_for_Today_at_19_00_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_dinesh_Due_Today_You_have_a_reminder_set_for_Today_at_19_00_more_options_available" Key="{7FE2F7F5-37F2-49D9-92A5-1B9805DF3CFA}">
+																<Image FileName="-400282533" Left="320" Top="112" Right="1326" Bottom="166" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_dinesh_Due_Today_You_have_a_reminder_set_for_Today_at_19_00_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Incomplete_task" Key="{237EA691-D180-4642-A35E-CF69104BBA3E}">
+																		<Image FileName="-2034350789" Left="326" Top="118" Right="368" Bottom="160" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="CheckBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="check box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Incomplete_task" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Collapse_Completed_bucket" Key="{2D73F1CB-2091-4244-A918-A7449C5B38C2}">
+														<Image FileName="-1896854563" Left="320" Top="112" Right="1326" Bottom="164" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Collapse_Completed_bucket" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Collapse_Completed_bucket" Key="{701B1978-F848-4E99-B4C5-BCE07F6A0FA4}">
+																<Image FileName="-1896854563" Left="320" Top="112" Right="1326" Bottom="164" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="Button" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="button" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Collapse_Completed_bucket" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Collapse_Completed_bucket" Key="{2A11BE00-E299-4BB4-880D-28DE623E0D1F}">
+																		<Image FileName="-1896854563" Left="320" Top="124" Right="428" Bottom="152" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Collapse_Completed_bucket" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Completed" Key="{06291138-A376-484E-A2DC-373EF234FB9B}">
+																				<Image FileName="-1896854563" Left="340" Top="124" Right="428" Bottom="152" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="TextBlock" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="text" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Completed" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Completed_task_dinesh_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{B19DF429-89E4-4C0E-AF51-0681E1108196}">
+														<Image FileName="-244345376" Left="320" Top="164" Right="1326" Bottom="218" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Completed_task_dinesh_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Completed_task_dinesh_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{8CAADCD8-4A4F-4D9B-BC99-1147B58C70FF}">
+																<Image FileName="-244345376" Left="320" Top="164" Right="1326" Bottom="218" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Completed_task_dinesh_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_performance_test_Due_Today_You_have_a_reminder_set_for_Today_at_22_00_more_options_available" Key="{DBC0B51D-6A9A-41CE-A285-7630E43C5090}">
+														<Image FileName="-1284260622" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_performance_test_Due_Today_You_have_a_reminder_set_for_Today_at_22_00_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_performance_test_Due_Today_You_have_a_reminder_set_for_Today_at_22_00_more_options_available" Key="{9524332B-C672-40B8-B6CF-090115A2FFE4}">
+																<Image FileName="-1284260622" Left="320" Top="112" Right="1326" Bottom="166" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_performance_test_Due_Today_You_have_a_reminder_set_for_Today_at_22_00_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Incomplete_task" Key="{5A6C11DA-70C2-4B26-9593-56A1EE1B3142}">
+																		<Image FileName="1576474238" Left="326" Top="118" Right="368" Bottom="160" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="CheckBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="check box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Incomplete_task" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_performance_Due_Today_You_have_a_reminder_set_for_Today_at_23_00_more_options_available" Key="{401DC8FC-C263-43F8-917B-77E89EEABCDF}">
+														<Image FileName="1311613359" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_performance_Due_Today_You_have_a_reminder_set_for_Today_at_23_00_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_performance_Due_Today_You_have_a_reminder_set_for_Today_at_23_00_more_options_available" Key="{0E47B8AE-A788-4C01-83FD-48B3FAD4D0F5}">
+																<Image FileName="1311613359" Left="320" Top="112" Right="1326" Bottom="166" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_performance_Due_Today_You_have_a_reminder_set_for_Today_at_23_00_more_options_available" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" Key="{9000B594-D36B-42B8-AA31-EC1897C35C0B}">
+														<Image FileName="-1414570218" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" Key="{C79F4E3D-2FE3-4195-8120-6FCEC91EDFD6}">
+																<Image FileName="-1414570218" Left="320" Top="112" Right="1326" Bottom="166" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_Performance_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" Key="{CB3B19A4-6320-4C35-ADD9-641FAD4F50A2}">
+														<Image FileName="-301208985" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_Performance_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_Performance_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" Key="{5425A866-F9D4-437F-BCF9-70C8DECEDB80}">
+																<Image FileName="-301208985" Left="320" Top="112" Right="1326" Bottom="166" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_Performance_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_16_00_more_options_available" Key="{684B04F5-2084-41A7-9816-C8DEAAFD36E3}">
+														<Image FileName="522826711" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_16_00_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_16_00_more_options_available" Key="{C0608E80-B4D4-4C7D-B0DC-C8B6E289F986}">
+																<Image FileName="522826711" Left="320" Top="112" Right="1326" Bottom="166" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_16_00_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Incomplete_task" Key="{AC80E838-6699-40E0-BCFD-1FE447BABF5E}">
+																		<Image FileName="-408414569" Left="326" Top="118" Right="368" Bottom="160" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="CheckBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="check box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Incomplete_task" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Completed_task_Tester_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{B7E03D3E-1E31-48B7-B602-E25E181A6D89}">
+														<Image FileName="917972860" Left="320" Top="164" Right="1326" Bottom="218" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Completed_task_Tester_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Completed_task_Tester_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{1DBA5F67-5B00-42A6-BDDD-C9214BAE3005}">
+																<Image FileName="917972860" Left="320" Top="164" Right="1326" Bottom="218" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Completed_task_Tester_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_17_00_more_options_available" Key="{65A36C84-048D-4D61-B6B7-22A8D9A76E54}">
+														<Image FileName="473528721" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_17_00_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_17_00_more_options_available" Key="{A07B5239-0A56-4159-B8F7-CA337CB3C5FE}">
+																<Image FileName="473528721" Left="320" Top="112" Right="1326" Bottom="166" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_17_00_more_options_available" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_tester_more_options_available" Key="{A94EF404-F47B-4299-9239-648719675C54}">
+														<Image FileName="307973219" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_tester_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_tester_more_options_available" Key="{205F376F-DDD5-4696-BEDB-ABD8E247E112}">
+																<Image FileName="307973219" Left="320" Top="112" Right="1326" Bottom="166" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_tester_more_options_available" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{84280930-C2BD-4BB2-AFF2-0C84134D7D73}">
+														<Image FileName="1275300345" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{9285E7E3-C813-454A-B0CC-826A08E93096}">
+																<Image FileName="1275300345" Left="320" Top="112" Right="1326" Bottom="166" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Incomplete_task" Key="{9BC74CE1-07FD-4D53-9E4F-C73FE45909D7}">
+																		<Image FileName="1275300345" Left="326" Top="118" Right="368" Bottom="160" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="CheckBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="check box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Incomplete_task" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_tester_Due_Today_in_Team_Review_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_more_options_available" Key="{D509A8C1-4FE9-4F7E-BACB-78B0CBC2EFF5}">
+														<Image FileName="1978598639" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_tester_Due_Today_in_Team_Review_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_tester_Due_Today_in_Team_Review_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_more_options_available" Key="{17DB3CB5-B2EF-4F1D-A4C3-B4A7386DCFC5}">
+																<Image FileName="1978598639" Left="320" Top="112" Right="1326" Bottom="166" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_tester_Due_Today_in_Team_Review_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Incomplete_task" Key="{CC45ACC1-F7E5-4108-A5F5-306186D4046D}">
+																		<Image FileName="1978598639" Left="326" Top="118" Right="368" Bottom="160" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="CheckBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="check box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Incomplete_task" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{980FFAE6-8702-485D-A1FA-CFCFC0E35EF3}">
+														<Image FileName="-1571442686" Left="320" Top="164" Right="1326" Bottom="218" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{83B5E9ED-5C9F-487F-B4F2-E85321F6BD50}">
+																<Image FileName="-1571442686" Left="320" Top="164" Right="1326" Bottom="218" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="tester" Key="{27598FA0-5855-4DD2-AAB6-F2BBDC815B28}">
+																		<Image FileName="-468339720" Left="374" Top="169" Right="409" Bottom="188" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="TextBlock" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="text" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="tester" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{600203F2-C954-4C79-AA4F-7E1C487F083A}">
+														<Image FileName="-1208505059" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{296FAB4C-DBBC-4CD1-A1C5-996E9299CBBB}">
+																<Image FileName="-1208505059" Left="320" Top="112" Right="1326" Bottom="166" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Incomplete_task" Key="{621AA4CE-74FD-495D-ADAB-7255A3430A96}">
+																		<Image FileName="-1208505059" Left="326" Top="118" Right="368" Bottom="160" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="CheckBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="check box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Incomplete_task" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Edit_Team_Review_list" Key="{39292806-6974-47E4-9CF1-0D4B2CE17754}">
+														<Image FileName="-1943436039" Left="1298" Top="54" Right="1326" Bottom="82" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="button" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Edit_Team_Review_list" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="Add_due_date" Key="{E59EEBF3-F091-4A62-92DD-124378BBFD85}">
+												<Image FileName="958604220" Left="1226" Top="684" Right="1258" Bottom="736" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Add_due_date" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Add_a_reminder" Key="{166BC61B-0C4A-4E21-9FDA-38C0A90075A3}">
+												<Image FileName="-821848382" Left="1258" Top="684" Right="1290" Bottom="736" />
+												<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Add_a_reminder" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Add_a_task_in_Team_Review_" Key="{01074D23-888E-4F67-ACE8-646566E4BA7C}">
+												<Image FileName="-1001194711" Left="320" Top="684" Right="1326" Bottom="736" />
+												<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="TextBox" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="edit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Add_a_task_in_Team_Review_" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="ContentElement" Key="{FD78B4B3-55C3-443F-9226-22DA39BF8123}">
+														<Image FileName="239159246" Left="320" Top="696" Right="1326" Bottom="724" />
+														<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ScrollViewer" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="ContentElement" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="Add_a_task_in_Tester_" Key="{96B0F78B-C828-4EDF-BE78-9A8657712491}">
+												<Image FileName="812142814" Left="320" Top="684" Right="1326" Bottom="736" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="TextBox" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="edit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Add_a_task_in_Tester_" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="ContentElement" Key="{BE317423-1CE3-4047-85F0-97623C2AE2E7}">
+														<Image FileName="812142814" Left="320" Top="696" Right="1326" Bottom="724" />
+														<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ScrollViewer" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="ContentElement" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="PaneRoot" Key="{14B5C248-8ADC-4460-AD12-11CC11F8A28A}">
+										<Image FileName="-1028566221" Left="0" Top="0" Right="280" Bottom="768" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="XAML" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="SplitViewPane" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="window" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PaneRoot" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Sidebar" Key="{E32E7D12-A8CD-463F-A31D-2BE771117D32}">
+												<Image FileName="-1028566221" Left="0" Top="0" Right="280" Bottom="768" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="NamedContainerAutomationPeer" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="group" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Sidebar" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Sidebar" Key="{25692709-76D4-430A-B28A-5819245F6A43}">
+														<Image FileName="-1028566221" Left="0" Top="8" Right="279" Bottom="475" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="LandmarkTarget" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="group" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Sidebar" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="New_list" Key="{A5103874-F082-47ED-962E-4F2FF5680F89}">
+																<Image FileName="-1028566221" Left="0" Top="431" Right="239" Bottom="475" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="Button" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="button" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="New_list" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="New_list" Key="{77DB6483-039D-4149-AC53-921C7CCD35AC}">
+																		<Image FileName="-1028566221" Left="48" Top="444" Right="98" Bottom="463" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="TextBlock" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="text" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="New_list" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="Lists" Key="{5EB4B4F7-B7A7-4E18-9491-A9C9E561E5BF}">
+																<Image FileName="-1400081444" Left="0" Top="90" Right="279" Bottom="431" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="ListView" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="list" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Lists" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Untitled_list_more_options_available" Key="{5EA1B77D-BC44-4C75-A5BD-711CFD02FF1B}">
+																		<Image FileName="-458724077" Left="0" Top="432" Right="279" Bottom="476" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="ListViewItem" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="list item" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Untitled_list_more_options_available" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Untitled_list_more_options_available" Key="{3D0D4318-012E-4C47-B4DB-28B45BAC9873}">
+																				<Image FileName="-458724077" Left="0" Top="432" Right="279" Bottom="476" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="NamedContainerAutomationPeer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="group" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Untitled_list_more_options_available" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Untitled_list_Rename_list" Key="{B3607A5E-0D70-49B6-A54A-5E9D334AC882}">
+																						<Image FileName="-458724077" Left="43" Top="434" Right="127" Bottom="474" />
+																						<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value Value="XAML" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value Value="TextBox" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="edit" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="Untitled_list_Rename_list" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Team_Review_more_options_available" Key="{33691621-160C-45E0-9F53-0A52F4FB54C2}">
+																		<Image FileName="-469024641" Left="0" Top="386" Right="279" Bottom="430" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="ListViewItem" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="list item" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Team_Review_more_options_available" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Team_Review_more_options_available" Key="{46D3F0B3-274A-4FCC-BCDF-E70EAB750855}">
+																				<Image FileName="-469024641" Left="0" Top="386" Right="279" Bottom="430" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="NamedContainerAutomationPeer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="group" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Team_Review_more_options_available" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Team_Review" Key="{973857F0-089A-4F8E-B6E7-37B4A5A2D738}">
+																						<Image FileName="1328993779" Left="49" Top="352" Right="131" Bottom="371" />
+																						<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value Value="XAML" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value Value="TextBlock" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="text" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="Team_Review" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Tester_more_options_available" Key="{227E7ADC-CBF0-401E-8AE9-A9E0565424F0}">
+																		<Image FileName="626131307" Left="0" Top="340" Right="279" Bottom="384" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="ListViewItem" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="list item" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Tester_more_options_available" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Tester_more_options_available" Key="{017FC1F3-B963-4A22-9DF8-1261F7440D3E}">
+																				<Image FileName="626131307" Left="0" Top="340" Right="279" Bottom="384" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="NamedContainerAutomationPeer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="group" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Tester_more_options_available" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Team_Review_Shared_list_1_uncompleted_tasks_more_options_available" Key="{C893063F-449C-478F-9563-200FF0970C9B}">
+																		<Image FileName="-1071219361" Left="0" Top="386" Right="279" Bottom="430" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="ListViewItem" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="list item" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Team_Review_Shared_list_1_uncompleted_tasks_more_options_available" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Team_Review_Shared_list_1_uncompleted_tasks_more_options_available" Key="{012C976B-1500-4AC0-A8BD-48AFF32A6D11}">
+																				<Image FileName="-1071219361" Left="0" Top="386" Right="279" Bottom="430" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="NamedContainerAutomationPeer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="group" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Team_Review_Shared_list_1_uncompleted_tasks_more_options_available" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Team_Review" Key="{EACE323D-9E01-4D0B-BA19-F73AAD23630D}">
+																						<Image FileName="-1071219361" Left="49" Top="398" Right="129" Bottom="417" />
+																						<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value Value="XAML" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value Value="TextBlock" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="text" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="Team_Review" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="Team_Review_Shared_list_more_options_available" Key="{0B81AE46-1E2D-4C98-9A2C-30179A25CE53}">
+																				<Image FileName="-1061808027" Left="0" Top="386" Right="279" Bottom="430" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="NamedContainerAutomationPeer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="group" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Team_Review_Shared_list_more_options_available" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Team_Review" Key="{E11E7F43-B6D3-4E4A-B9AC-DC4BD8B90A81}">
+																						<Image FileName="-1061808027" Left="49" Top="398" Right="129" Bottom="417" />
+																						<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value Value="XAML" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value Value="TextBlock" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="text" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="Team_Review" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Assigned_to_you_1_uncompleted_tasks_more_options_available" Key="{89B8A1FD-FBE5-4AD3-A97E-A27EBE5C1FA9}">
+																		<Image FileName="287724222" Left="0" Top="229" Right="279" Bottom="273" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="ListViewItem" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="list item" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Assigned_to_you_1_uncompleted_tasks_more_options_available" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Assigned_to_you_1_uncompleted_tasks_more_options_available" Key="{0777497E-3677-46B8-A5BD-9D5F1D37FA03}">
+																				<Image FileName="287724222" Left="0" Top="229" Right="279" Bottom="273" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="NamedContainerAutomationPeer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="group" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Assigned_to_you_1_uncompleted_tasks_more_options_available" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Assigned_to_you" Key="{23B4609B-46BE-4252-AD6F-0BE21E806DB6}">
+																						<Image FileName="287724222" Left="49" Top="241" Right="149" Bottom="260" />
+																						<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value Value="XAML" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value Value="TextBlock" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="text" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="Assigned_to_you" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Team_Review_Shared_list_more_options_available" Key="{085750BD-7EF2-4724-AC71-B9AE486D80E9}">
+																		<Image FileName="-744333890" Left="0" Top="386" Right="279" Bottom="430" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="ListViewItem" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="list item" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Team_Review_Shared_list_more_options_available" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Team_Review_Shared_list_more_options_available" Key="{909C6865-5026-4514-8126-8BC806AA7BCC}">
+																				<Image FileName="-744333890" Left="0" Top="386" Right="279" Bottom="430" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="NamedContainerAutomationPeer" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="group" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Team_Review_Shared_list_more_options_available" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="Pop_up_2" Key="{3308E140-5904-4A09-8B68-EE2539602107}">
+										<Image FileName="-1993282106" Left="512" Top="186" Right="854" Bottom="954" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="XAML" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="Popup" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="window" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Pop_up_2" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="ContentScrollViewer" Key="{94825571-731D-4157-9A09-DF82F0C18FD2}">
+												<Image FileName="-1993282106" Left="513" Top="187" Right="853" Bottom="581" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="ScrollViewer" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ContentScrollViewer" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="List_members" Key="{61F55B84-D86A-42A2-B46F-354D761BC431}">
+														<Image FileName="-1946229563" Left="513" Top="264" Right="853" Bottom="348" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListView" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="List_members" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Dinesh_B_Owner_" Key="{89DEBA54-3A2C-46FB-AF80-7BED77419663}">
+																<Image FileName="-1946229563" Left="513" Top="299" Right="853" Bottom="339" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="ListViewItem" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="list item" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Dinesh_B_Owner_" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Dinesh_B_Owner_" Key="{35294AE8-A985-4CB1-BA6D-67BB7D7465CA}">
+																		<Image FileName="1649802566" Left="529" Top="305" Right="837" Bottom="333" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="NamedContainerAutomationPeer" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="group" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Dinesh_B_Owner_" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Dinesh_B" Key="{56494938-CCCA-4844-9287-A8A3DF9ECA2B}">
+																				<Image FileName="1649802566" Left="569" Top="309" Right="628" Bottom="329" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="TextBlock" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="text" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Dinesh_B" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Create_invitation_link" Key="{BE988007-9307-4677-8B64-4C090907566F}">
+														<Image FileName="-1993282106" Left="529" Top="415" Right="837" Bottom="444" />
+														<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="button" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Create_invitation_link" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="Delete" Key="{E590D046-78A6-4A66-AD85-8ED68BC585A9}">
+														<Image FileName="-1547998462" Left="570" Top="425" Right="690" Bottom="454" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="button" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Delete" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="Close" Key="{3E0C85A1-973E-41B7-868F-5ACBDB0BD633}">
+														<Image FileName="-1113945504" Left="757" Top="504" Right="837" Bottom="533" />
+														<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="button" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Close" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="DetailAndTaskSplitView2" Key="{16360D9D-3F68-4232-8B83-01DC0A07FC19}">
+										<Image FileName="-797165418" Left="280" Top="0" Right="1366" Bottom="768" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="XAML" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="Error: get property ClassName" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="custom" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DetailAndTaskSplitView" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Tasks" Key="{EA963250-E2BD-4C1E-ABFC-78ECCB710746}">
+												<Image FileName="-797165418" Left="280" Top="0" Right="1366" Bottom="768" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="ListView" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="list" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Tasks" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{495176C8-7099-4E7E-816F-EDDDF77B1F98}">
+														<Image FileName="642212751" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{CC579EE8-E54C-4DF6-A758-C52E6E9879D0}">
+																<Image FileName="642212751" Left="320" Top="112" Right="1326" Bottom="166" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="tester" Key="{2FE8CAEC-6534-4F52-A01C-7A4F2374E6EA}">
+																		<Image FileName="642212751" Left="374" Top="117" Right="409" Bottom="136" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="TextBlock" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="text" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="tester" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="Incomplete_task" Key="{3E8A13E8-2353-4992-BE83-3B4DDA66AEB5}">
+																		<Image FileName="-833002761" Left="326" Top="118" Right="368" Bottom="160" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="CheckBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="check box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Incomplete_task" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="O" Key="{E8AA7A89-29B4-45B6-BC7F-8C48A0949F80}">
+																				<Image FileName="-833002761" Left="335" Top="127" Right="359" Bottom="154" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="TextBlock" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="text" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="O" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{8AE11010-1EFC-4787-A682-A4AB78BE36BB}">
+														<Image FileName="-1090445468" Left="320" Top="164" Right="1326" Bottom="218" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{8A408709-469B-4F25-B815-1710B7703DBD}">
+																<Image FileName="-1090445468" Left="320" Top="164" Right="1326" Bottom="218" />
+																<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{B8FE5387-9EE2-487A-8BE0-0FE515DEE136}">
+														<Image FileName="-82577222" Left="320" Top="112" Right="1326" Bottom="166" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListViewItem" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list item" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Key="{AFE686D3-54F7-44B7-8ECE-C735E1C7D609}">
+																<Image FileName="-82577222" Left="320" Top="112" Right="1326" Bottom="166" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Tester" Key="{79FFDB4C-9248-430D-85DE-156BC532C4D6}">
+																		<Image FileName="-82577222" Left="374" Top="117" Right="411" Bottom="136" />
+																		<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="TextBlock" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="text" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Tester" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="Incomplete_task" Key="{2EBF8250-6929-4CF8-ADCB-F8DCC7448BF2}">
+																		<Image FileName="576077876" Left="326" Top="118" Right="368" Bottom="160" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="CheckBox" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="check box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Incomplete_task" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndXaml_WindowedPopupClass" Key="{1AD279A8-9F81-4128-9CEB-01F47A4D90D7}">
+								<Image FileName="-1846804041" Left="0" Top="0" Right="252" Bottom="192" />
+								<TypeInfo Item0="{05A5C7D1-F182-4CE4-A421-8A0C477A0CBE}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Xaml_WindowedPopupClass" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Pop-upHost" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="wndXaml_WindowedPopupClass2" Key="{91F38F75-0D57-45F6-B61E-E9E4C8055A41}">
+								<Image FileName="300227340" Left="0" Top="0" Right="252" Bottom="192" />
+								<TypeInfo Item0="{05A5C7D1-F182-4CE4-A421-8A0C477A0CBE}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Xaml_WindowedPopupClass" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Pop-upHost" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="PickerHost" Key="{69361EAC-D4CE-44A7-BCEE-F94A2740A48C}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="PickerHost" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlgOpen" Key="{30589CFA-9400-49A6-B57C-2880F7BE13D0}">
+								<Image FileName="241988687" Left="0" Top="0" Right="683" Bottom="480" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Open" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DUIViewWndClassName" Key="{08FD7443-8BEE-41B2-9530-46F5CF6D6D18}">
+										<Image FileName="241988687" Left="8" Top="66" Right="675" Bottom="396" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="DUIViewWndClassName" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Explorer_Pane" Key="{5319B1F4-8D1D-4A5D-93AC-B79CB6F74071}">
+												<Image FileName="241988687" Left="8" Top="66" Right="675" Bottom="396" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="DirectUI" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="HWNDView" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Explorer_Pane" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="CtrlNotifySink" Key="{F34A19DC-B622-4745-8185-97B55BD0639C}">
+														<Image FileName="241988687" Left="168" Top="97" Right="675" Bottom="396" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="CtrlNotifySink" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="3" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ShellView" Key="{3135C4E3-1857-4121-B822-16B93CE68648}">
+																<Image FileName="241988687" Left="168" Top="97" Right="675" Bottom="396" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="SHELLDLL_DefView" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="ShellView" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Items_View" Key="{D9E792DA-06C7-4CF9-AE24-53AF521011A2}">
+																		<Image FileName="241988687" Left="168" Top="97" Right="675" Bottom="396" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="DirectUI" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="UIItemsView" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="list" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Items_View" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Capture" Key="{55D2CA14-1047-4563-98AB-E86B22B9D45F}">
+																				<Image FileName="241988687" Left="551" Top="103" Right="656" Bottom="219" />
+																				<TypeInfo Item0="{102CC459-5C41-41A3-9DD0-D045538A06DD}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="DirectUI" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="UIItem" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="list item" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Capture" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="btnOpen" Key="{F30EB893-0912-4D71-999A-9A7770A8E26F}">
+										<Image FileName="-1025271178" Left="470" Top="434" Right="558" Bottom="460" />
+										<TypeInfo Item0="{9901F256-91C0-4554-A25B-58FCF469016F}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Open" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="ApplicationFrameHost" Key="{7383DAFE-B077-497B-BDDB-307D2D4339A7}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ApplicationFrameHost" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndApplicationFrameWindow" Key="{D172321C-88AD-4CC9-AE7B-FAF6FF6C2709}">
+								<Image FileName="1553777419" Left="-8" Top="-8" Right="1374" Bottom="776" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="ApplicationFrameWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Microsoft To Do" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="slack" Key="{666F68F7-82CF-4CEE-B26E-B077E8B9F4F8}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="slack" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{C948AC14-F9CC-4721-8CEE-DA934D10EA74}">
+								<Image FileName="-531742277" Left="-8" Top="-8" Right="1374" Bottom="776" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Slack | Karthick G | kctech" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_RenderWidgetHostHWND" Key="{B86EEE86-5006-450D-A75E-98FA080FE089}">
+										<Image FileName="-531742277" Left="-1" Top="-1" Right="1367" Bottom="767" />
+										<TypeInfo Item0="{31A6557B-24C0-4EAD-B81D-FD8D4F6C015D}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chrome Legacy Window" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{EFED0CC2-904C-4731-9154-769C8C0783FA}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{C6751AD1-8ACD-4E1D-8CAB-457963CCD6EF}">
+								<Image FileName="-2047665533" Left="0" Top="0" Right="1366" Bottom="40" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ReBarWindow32" Key="{ABE72575-011F-42EE-891C-1108C6ACD9E8}">
+										<Image FileName="-2047665533" Left="390" Top="0" Right="1111" Bottom="40" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="ReBarWindow32" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="MSTaskSwWClass" Key="{C677115C-E854-4B5F-86D9-5E4A41772D56}">
+												<Image FileName="-2047665533" Left="392" Top="0" Right="1111" Bottom="40" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MSTaskSwWClass" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Running applications" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MSTaskListWClass" Key="{318BD9A5-3D7A-480D-BE6A-906BAFF27C42}">
+														<Image FileName="-2047665533" Left="392" Top="0" Right="1111" Bottom="40" />
+														<TypeInfo Item0="{31A6557B-24C0-4EAD-B81D-FD8D4F6C015D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="MSTaskListWClass" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="Running applications" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{E0874075-83EF-435C-A10B-C9D530AF8666}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{924BAB58-339E-4C36-ABC8-8DB5E363D410}">
+								<TypeInfo Item0="{6115EBF5-F313-409C-855D-393CCFFB0126}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Microsoft_Todos" Owner="{EABFF752-8DBC-488A-A449-ED5DB5FC5169}">
+			<Child Name="Microsoft_To_Do" Owner="{2A237C0A-BE49-481B-992F-819769DC0E93}">
+				<Child Name="DetailAndTaskSplitView" Owner="{83FE80D6-02FF-4E4A-A472-779321558C28}">
+					<Child Name="PaneRoot" Owner="{D6C1AA54-D0AA-4109-8972-38F6826EBD0A}">
+						<Child Name="Details_for_task_dinesh" Owner="{4412B47C-1B86-4CF9-A49C-A3258289BF86}">
+							<Child Name="ScrollViewer" Owner="{84A061AF-DB64-41B8-8172-5E62A511B0BB}">
+								<Child Name="Dinesh_B" Owner="{0714144F-4134-495E-BD93-B20115D596AE}" />
+								<Child Name="Add_note" Owner="{1A68ABF0-075B-4FEE-B0C3-CA5AF0750258}">
+									<Child Name="ContentElement" Owner="{44AA2469-FA23-42AC-AF6B-6DA67880540C}" />
+								</Child>
+								<Child Name="Assign_to" Owner="{773F1653-E7DE-4CDD-BDBA-5B8E0368CC17}" />
+								<Child Name="Add_file" Owner="{7A8931BA-E4E7-4FEC-A14D-D65BD27966D0}" />
+							</Child>
+							<Child Name="Dismiss_detail_view" Owner="{969C70C9-F471-4574-9D86-AA1B439FF00A}" />
+						</Child>
+						<Child Name="Details_for_task_performance_test" Owner="{183A57F4-7CC8-4CB1-BD2F-10C0902F1367}">
+							<Child Name="ScrollViewer" Owner="{28FD8A89-CCD3-4CF8-A445-5B8D9AE4270B}">
+								<Child Name="Assign_to" Owner="{EA79C5F8-43FE-464C-8AB7-4726FC2F9F8C}">
+									<Child Name="Dinesh_B" Owner="{7506E240-75ED-4282-8DCB-7749B1605CC5}" />
+								</Child>
+								<Child Name="Add_note" Owner="{E186619B-820E-49E5-BAB7-550C72D0DB10}">
+									<Child Name="ContentElement" Owner="{0DF9DE07-B113-46BD-9377-58A9816C8642}" />
+								</Child>
+								<Child Name="Add_file" Owner="{6098B236-2D1D-4B0D-AF85-CB4E13583CF1}" />
+							</Child>
+							<Child Name="Dismiss_detail_view" Owner="{A6F13B7E-8B0D-4281-8D11-7D1B2869231E}" />
+						</Child>
+						<Child Name="Details_for_task_performance" Owner="{35ACA504-243C-43C8-9260-6398856E0752}">
+							<Child Name="ScrollViewer" Owner="{37E20FDA-C2CC-4B08-A2DF-6CBBD9DF5BDA}">
+								<Child Name="Assign_to" Owner="{97091EA4-0193-45BA-9C5C-FE365FD71B86}" />
+							</Child>
+						</Child>
+						<Child Name="Details_for_task_Tester" Owner="{129954E2-01E0-4B96-964B-9C1F0A7E8B00}">
+							<Child Name="ScrollViewer" Owner="{29029C38-A507-43BB-9CBE-7B0CF2EBFF84}">
+								<Child Name="Assign_to" Owner="{4B0A486C-34B1-443F-98E3-47EBD59670AD}">
+									<Child Name="Assign_to" Owner="{99BA86D5-334C-489E-A97F-1578ADF427B2}" />
+								</Child>
+								<Child Name="Dinesh_B" Owner="{AE3F2E9B-948E-4E78-B6E8-3A83CFFC7626}">
+									<Child Name="Dinesh_B" Owner="{61FBC08D-3C12-4200-85FA-F7DBB5194119}" />
+								</Child>
+								<Child Name="Add_note" Owner="{804510B5-C42D-47C2-9481-9A1576B6EF85}">
+									<Child Name="ContentElement" Owner="{8B3A6FA9-911D-45B5-AC90-972FBA86C99A}" />
+								</Child>
+								<Child Name="Add_file" Owner="{5EE87464-D253-49F7-84C3-5304036908D7}" />
+								<Child Name="Add_a_reminder" Owner="{B32E67C4-52ED-4347-A727-E3543D87338F}" />
+								<Child Name="Add_due_date" Owner="{85460B99-F59F-436B-863C-D3194C086332}" />
+							</Child>
+							<Child Name="Dismiss_detail_view" Owner="{6E24035E-3578-4BE8-BC7E-CF0340E4D0C0}" />
+						</Child>
+					</Child>
+					<Child Name="K" Owner="{799A975D-552D-424E-ACD6-80F96E9CE6E1}" />
+					<Child Name="Add_a_task_in_testere_" Owner="{48428206-1258-40E6-8F9A-E60A8E76E0B2}" />
+					<Child Name="Tasks" Owner="{D21A7729-0718-4557-B06D-8026CFCA9A36}">
+						<Child Name="Task_dinesh_Due_Today_You_have_a_reminder_set_for_Today_at_19_00_more_options_available" Owner="{A1E423B9-6DC2-4553-8475-47852ED5C253}">
+							<Child Name="Task_dinesh_Due_Today_You_have_a_reminder_set_for_Today_at_19_00_more_options_available" Owner="{7FE2F7F5-37F2-49D9-92A5-1B9805DF3CFA}">
+								<Child Name="Incomplete_task" Owner="{237EA691-D180-4642-A35E-CF69104BBA3E}" />
+							</Child>
+						</Child>
+						<Child Name="Collapse_Completed_bucket" Owner="{2D73F1CB-2091-4244-A918-A7449C5B38C2}">
+							<Child Name="Collapse_Completed_bucket" Owner="{701B1978-F848-4E99-B4C5-BCE07F6A0FA4}">
+								<Child Name="Collapse_Completed_bucket" Owner="{2A11BE00-E299-4BB4-880D-28DE623E0D1F}">
+									<Child Name="Completed" Owner="{06291138-A376-484E-A2DC-373EF234FB9B}" />
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="Completed_task_dinesh_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{B19DF429-89E4-4C0E-AF51-0681E1108196}">
+							<Child Name="Completed_task_dinesh_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{8CAADCD8-4A4F-4D9B-BC99-1147B58C70FF}" />
+						</Child>
+						<Child Name="Task_performance_test_Due_Today_You_have_a_reminder_set_for_Today_at_22_00_more_options_available" Owner="{DBC0B51D-6A9A-41CE-A285-7630E43C5090}">
+							<Child Name="Task_performance_test_Due_Today_You_have_a_reminder_set_for_Today_at_22_00_more_options_available" Owner="{9524332B-C672-40B8-B6CF-090115A2FFE4}">
+								<Child Name="Incomplete_task" Owner="{5A6C11DA-70C2-4B26-9593-56A1EE1B3142}" />
+							</Child>
+						</Child>
+						<Child Name="Task_performance_Due_Today_You_have_a_reminder_set_for_Today_at_23_00_more_options_available" Owner="{401DC8FC-C263-43F8-917B-77E89EEABCDF}">
+							<Child Name="Task_performance_Due_Today_You_have_a_reminder_set_for_Today_at_23_00_more_options_available" Owner="{0E47B8AE-A788-4C01-83FD-48B3FAD4D0F5}" />
+						</Child>
+						<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" Owner="{9000B594-D36B-42B8-AA31-EC1897C35C0B}">
+							<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" Owner="{C79F4E3D-2FE3-4195-8120-6FCEC91EDFD6}" />
+						</Child>
+						<Child Name="Task_Performance_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" Owner="{CB3B19A4-6320-4C35-ADD9-641FAD4F50A2}">
+							<Child Name="Task_Performance_Due_Today_You_have_a_reminder_set_for_Today_at_15_00_more_options_available" Owner="{5425A866-F9D4-437F-BCF9-70C8DECEDB80}" />
+						</Child>
+						<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_16_00_more_options_available" Owner="{684B04F5-2084-41A7-9816-C8DEAAFD36E3}">
+							<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_16_00_more_options_available" Owner="{C0608E80-B4D4-4C7D-B0DC-C8B6E289F986}">
+								<Child Name="Incomplete_task" Owner="{AC80E838-6699-40E0-BCFD-1FE447BABF5E}" />
+							</Child>
+						</Child>
+						<Child Name="Completed_task_Tester_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{B7E03D3E-1E31-48B7-B602-E25E181A6D89}">
+							<Child Name="Completed_task_Tester_Due_Today_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{1DBA5F67-5B00-42A6-BDDD-C9214BAE3005}" />
+						</Child>
+						<Child Name="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_17_00_more_options_available" Owner="{65A36C84-048D-4D61-B6B7-22A8D9A76E54}">
+							<Child Name="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_17_00_more_options_available" Owner="{A07B5239-0A56-4159-B8F7-CA337CB3C5FE}" />
+						</Child>
+						<Child Name="Task_tester_more_options_available" Owner="{A94EF404-F47B-4299-9239-648719675C54}">
+							<Child Name="Task_tester_more_options_available" Owner="{205F376F-DDD5-4696-BEDB-ABD8E247E112}" />
+						</Child>
+						<Child Name="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{84280930-C2BD-4BB2-AFF2-0C84134D7D73}">
+							<Child Name="Task_tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{9285E7E3-C813-454A-B0CC-826A08E93096}">
+								<Child Name="Incomplete_task" Owner="{9BC74CE1-07FD-4D53-9E4F-C73FE45909D7}" />
+							</Child>
+						</Child>
+						<Child Name="Task_tester_Due_Today_in_Team_Review_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_more_options_available" Owner="{D509A8C1-4FE9-4F7E-BACB-78B0CBC2EFF5}">
+							<Child Name="Task_tester_Due_Today_in_Team_Review_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_more_options_available" Owner="{17DB3CB5-B2EF-4F1D-A4C3-B4A7386DCFC5}">
+								<Child Name="Incomplete_task" Owner="{CC45ACC1-F7E5-4108-A5F5-306186D4046D}" />
+							</Child>
+						</Child>
+						<Child Name="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{980FFAE6-8702-485D-A1FA-CFCFC0E35EF3}">
+							<Child Name="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{83B5E9ED-5C9F-487F-B4F2-E85321F6BD50}">
+								<Child Name="tester" Owner="{27598FA0-5855-4DD2-AAB6-F2BBDC815B28}" />
+							</Child>
+						</Child>
+						<Child Name="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{600203F2-C954-4C79-AA4F-7E1C487F083A}">
+							<Child Name="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{296FAB4C-DBBC-4CD1-A1C5-996E9299CBBB}">
+								<Child Name="Incomplete_task" Owner="{621AA4CE-74FD-495D-ADAB-7255A3430A96}" />
+							</Child>
+						</Child>
+						<Child Name="Edit_Team_Review_list" Owner="{39292806-6974-47E4-9CF1-0D4B2CE17754}" />
+					</Child>
+					<Child Name="Add_due_date" Owner="{E59EEBF3-F091-4A62-92DD-124378BBFD85}" />
+					<Child Name="Add_a_reminder" Owner="{166BC61B-0C4A-4E21-9FDA-38C0A90075A3}" />
+					<Child Name="Add_a_task_in_Team_Review_" Owner="{01074D23-888E-4F67-ACE8-646566E4BA7C}">
+						<Child Name="ContentElement" Owner="{FD78B4B3-55C3-443F-9226-22DA39BF8123}" />
+					</Child>
+					<Child Name="Add_a_task_in_Tester_" Owner="{96B0F78B-C828-4EDF-BE78-9A8657712491}">
+						<Child Name="ContentElement" Owner="{BE317423-1CE3-4047-85F0-97623C2AE2E7}" />
+					</Child>
+				</Child>
+				<Child Name="PaneRoot" Owner="{14B5C248-8ADC-4460-AD12-11CC11F8A28A}">
+					<Child Name="Sidebar" Owner="{E32E7D12-A8CD-463F-A31D-2BE771117D32}">
+						<Child Name="Sidebar" Owner="{25692709-76D4-430A-B28A-5819245F6A43}">
+							<Child Name="New_list" Owner="{A5103874-F082-47ED-962E-4F2FF5680F89}">
+								<Child Name="New_list" Owner="{77DB6483-039D-4149-AC53-921C7CCD35AC}" />
+							</Child>
+							<Child Name="Lists" Owner="{5EB4B4F7-B7A7-4E18-9491-A9C9E561E5BF}">
+								<Child Name="Untitled_list_more_options_available" Owner="{5EA1B77D-BC44-4C75-A5BD-711CFD02FF1B}">
+									<Child Name="Untitled_list_more_options_available" Owner="{3D0D4318-012E-4C47-B4DB-28B45BAC9873}">
+										<Child Name="Untitled_list_Rename_list" Owner="{B3607A5E-0D70-49B6-A54A-5E9D334AC882}" />
+									</Child>
+								</Child>
+								<Child Name="Team_Review_more_options_available" Owner="{33691621-160C-45E0-9F53-0A52F4FB54C2}">
+									<Child Name="Team_Review_more_options_available" Owner="{46D3F0B3-274A-4FCC-BCDF-E70EAB750855}">
+										<Child Name="Team_Review" Owner="{973857F0-089A-4F8E-B6E7-37B4A5A2D738}" />
+									</Child>
+								</Child>
+								<Child Name="Tester_more_options_available" Owner="{227E7ADC-CBF0-401E-8AE9-A9E0565424F0}">
+									<Child Name="Tester_more_options_available" Owner="{017FC1F3-B963-4A22-9DF8-1261F7440D3E}" />
+								</Child>
+								<Child Name="Team_Review_Shared_list_1_uncompleted_tasks_more_options_available" Owner="{C893063F-449C-478F-9563-200FF0970C9B}">
+									<Child Name="Team_Review_Shared_list_1_uncompleted_tasks_more_options_available" Owner="{012C976B-1500-4AC0-A8BD-48AFF32A6D11}">
+										<Child Name="Team_Review" Owner="{EACE323D-9E01-4D0B-BA19-F73AAD23630D}" />
+									</Child>
+									<Child Name="Team_Review_Shared_list_more_options_available" Owner="{0B81AE46-1E2D-4C98-9A2C-30179A25CE53}">
+										<Child Name="Team_Review" Owner="{E11E7F43-B6D3-4E4A-B9AC-DC4BD8B90A81}" />
+									</Child>
+								</Child>
+								<Child Name="Assigned_to_you_1_uncompleted_tasks_more_options_available" Owner="{89B8A1FD-FBE5-4AD3-A97E-A27EBE5C1FA9}">
+									<Child Name="Assigned_to_you_1_uncompleted_tasks_more_options_available" Owner="{0777497E-3677-46B8-A5BD-9D5F1D37FA03}">
+										<Child Name="Assigned_to_you" Owner="{23B4609B-46BE-4252-AD6F-0BE21E806DB6}" />
+									</Child>
+								</Child>
+								<Child Name="Team_Review_Shared_list_more_options_available" Owner="{085750BD-7EF2-4724-AC71-B9AE486D80E9}">
+									<Child Name="Team_Review_Shared_list_more_options_available" Owner="{909C6865-5026-4514-8126-8BC806AA7BCC}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="Pop_up_2" Owner="{3308E140-5904-4A09-8B68-EE2539602107}">
+					<Child Name="ContentScrollViewer" Owner="{94825571-731D-4157-9A09-DF82F0C18FD2}">
+						<Child Name="List_members" Owner="{61F55B84-D86A-42A2-B46F-354D761BC431}">
+							<Child Name="Dinesh_B_Owner_" Owner="{89DEBA54-3A2C-46FB-AF80-7BED77419663}">
+								<Child Name="Dinesh_B_Owner_" Owner="{35294AE8-A985-4CB1-BA6D-67BB7D7465CA}">
+									<Child Name="Dinesh_B" Owner="{56494938-CCCA-4844-9287-A8A3DF9ECA2B}" />
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="Create_invitation_link" Owner="{BE988007-9307-4677-8B64-4C090907566F}" />
+						<Child Name="Delete" Owner="{E590D046-78A6-4A66-AD85-8ED68BC585A9}" />
+						<Child Name="Close" Owner="{3E0C85A1-973E-41B7-868F-5ACBDB0BD633}" />
+					</Child>
+				</Child>
+				<Child Name="DetailAndTaskSplitView2" Owner="{16360D9D-3F68-4232-8B83-01DC0A07FC19}">
+					<Child Name="Tasks" Owner="{EA963250-E2BD-4C1E-ABFC-78ECCB710746}">
+						<Child Name="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{495176C8-7099-4E7E-816F-EDDDF77B1F98}">
+							<Child Name="Task_tester_Due_17_August_2020_You_have_a_reminder_set_for_17_August_2020_9_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{CC579EE8-E54C-4DF6-A758-C52E6E9879D0}">
+								<Child Name="tester" Owner="{2FE8CAEC-6534-4F52-A01C-7A4F2374E6EA}" />
+								<Child Name="Incomplete_task" Owner="{3E8A13E8-2353-4992-BE83-3B4DDA66AEB5}">
+									<Child Name="O" Owner="{E8AA7A89-29B4-45B6-BC7F-8C48A0949F80}" />
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{8AE11010-1EFC-4787-A682-A4AB78BE36BB}">
+							<Child Name="Completed_task_tester_Due_17_August_2020_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{8A408709-469B-4F25-B815-1710B7703DBD}" />
+						</Child>
+						<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{B8FE5387-9EE2-487A-8BE0-0FE515DEE136}">
+							<Child Name="Task_Tester_Due_Today_You_have_a_reminder_set_for_Today_at_18_00_To_access_the_notes_attached_to_the_task_go_to_details_Files_attached_Assigned_to_Dinesh_B_more_options_available" Owner="{AFE686D3-54F7-44B7-8ECE-C735E1C7D609}">
+								<Child Name="Tester" Owner="{79FFDB4C-9248-430D-85DE-156BC532C4D6}" />
+								<Child Name="Incomplete_task" Owner="{2EBF8250-6929-4CF8-ADCB-F8DCC7448BF2}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="wndXaml_WindowedPopupClass" Owner="{1AD279A8-9F81-4128-9CEB-01F47A4D90D7}" />
+			<Child Name="wndXaml_WindowedPopupClass2" Owner="{91F38F75-0D57-45F6-B61E-E9E4C8055A41}" />
+		</Child>
+		<Child Name="PickerHost" Owner="{69361EAC-D4CE-44A7-BCEE-F94A2740A48C}">
+			<Child Name="dlgOpen" Owner="{30589CFA-9400-49A6-B57C-2880F7BE13D0}">
+				<Child Name="DUIViewWndClassName" Owner="{08FD7443-8BEE-41B2-9530-46F5CF6D6D18}">
+					<Child Name="Explorer_Pane" Owner="{5319B1F4-8D1D-4A5D-93AC-B79CB6F74071}">
+						<Child Name="CtrlNotifySink" Owner="{F34A19DC-B622-4745-8185-97B55BD0639C}">
+							<Child Name="ShellView" Owner="{3135C4E3-1857-4121-B822-16B93CE68648}">
+								<Child Name="Items_View" Owner="{D9E792DA-06C7-4CF9-AE24-53AF521011A2}">
+									<Child Name="Capture" Owner="{55D2CA14-1047-4563-98AB-E86B22B9D45F}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="btnOpen" Owner="{F30EB893-0912-4D71-999A-9A7770A8E26F}" />
+			</Child>
+		</Child>
+		<Child Name="ApplicationFrameHost" Owner="{7383DAFE-B077-497B-BDDB-307D2D4339A7}">
+			<Child Name="wndApplicationFrameWindow" Owner="{D172321C-88AD-4CC9-AE7B-FAF6FF6C2709}" />
+		</Child>
+		<Child Name="slack" Owner="{666F68F7-82CF-4CEE-B26E-B077E8B9F4F8}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{C948AC14-F9CC-4721-8CEE-DA934D10EA74}">
+				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{B86EEE86-5006-450D-A75E-98FA080FE089}" />
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{EFED0CC2-904C-4731-9154-769C8C0783FA}">
+			<Child Name="wndShell_TrayWnd" Owner="{C6751AD1-8ACD-4E1D-8CAB-457963CCD6EF}">
+				<Child Name="ReBarWindow32" Owner="{ABE72575-011F-42EE-891C-1108C6ACD9E8}">
+					<Child Name="MSTaskSwWClass" Owner="{C677115C-E854-4B5F-86D9-5E4A41772D56}">
+						<Child Name="MSTaskListWClass" Owner="{318BD9A5-3D7A-480D-BE6A-906BAFF27C42}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="browser" Owner="{E0874075-83EF-435C-A10B-C9D530AF8666}">
+			<Child Name="BrowserWindow" Owner="{924BAB58-339E-4C36-ABC8-8DB5E363D410}" />
+		</Child>
+	</LogicalNodes>
+</Root>
